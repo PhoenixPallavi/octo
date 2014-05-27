@@ -2,5 +2,7 @@
 
 
 n=raw_input("Enter your name : ") 
-print "Hello "+n
-print "Bye "+n
+for i in range(10):
+    print "Hello "+n
+for i in range(10):
+    print "Bye "+n
