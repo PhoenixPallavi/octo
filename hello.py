@@ -3,4 +3,4 @@
 
 n=raw_input("Enter your name : ") 
 print "Hello "+n
-
+print "Bye "+n
